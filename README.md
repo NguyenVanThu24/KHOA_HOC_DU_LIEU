@@ -17,7 +17,7 @@
 
 ***1. Link Youtube:*** https://youtu.be/mKATV8ZKENM
 
-***2. ***
+***2.***
 
 # <p align="center">***THE END***</p>
 
