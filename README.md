@@ -13,11 +13,10 @@
 **Deadline:**  17h00 ngày 26/05/2026
 
 ---
-## Nội dung bài trình bày thuyết minh
 
-***1. Link Youtube:*** https://youtu.be/mKATV8ZKENM
+## NỘI DUNG BÀI TẬP: PHÂN CỤM K-MEANS
 
-***2.***
+***Link Youtube:*** https://youtu.be/mKATV8ZKENM
 
 # <p align="center">***THE END***</p>
 
