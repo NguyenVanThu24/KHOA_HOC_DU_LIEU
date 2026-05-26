@@ -10,7 +10,7 @@
 
 **Lớp:** K58KTP
 
-**Deadline:**  ngày   /   /2026
+**Deadline:**  17h00 ngày 26/05/2026
 
 ---
 ## Nội dung bài trình bày thuyết minh
