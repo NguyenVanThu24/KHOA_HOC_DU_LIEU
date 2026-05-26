@@ -13,6 +13,11 @@
 **Deadline:**  ngày   /   /2026
 
 ---
+## Nội dung bài trình bày thuyết minh
+
+***1. Link Youtube:*** https://youtu.be/mKATV8ZKENM
+
+***2. ***
 
 # <p align="center">***THE END***</p>
 
