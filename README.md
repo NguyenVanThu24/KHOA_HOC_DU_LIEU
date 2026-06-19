@@ -10,13 +10,19 @@
 
 **Lớp:** K58KTP
 
-**Deadline:**  17h00 ngày 26/05/2026
+**Deadline:** 06/2026
 
 ---
 
 ## NỘI DUNG BÀI TẬP: PHÂN CỤM K-MEANS
 
 ***Link Youtube:*** https://youtu.be/mKATV8ZKENM
+
+---
+
+## NỘI DUNG BÀI TIỂU LUẬN
+
+***Link Youtube:*** 
 
 # <p align="center">***THE END***</p>
 
